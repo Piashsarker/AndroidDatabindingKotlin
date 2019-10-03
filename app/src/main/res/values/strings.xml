@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingKotlinAndroid</string>
+    <string name="profile_avatar_cd">Profile Image</string>
+    <string name="like">Like</string>
+    <string name="name_label">Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="likes">Likes</string>
+</resources>
